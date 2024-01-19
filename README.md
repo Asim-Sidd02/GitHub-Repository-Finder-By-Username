@@ -15,8 +15,9 @@ GitHub Repository Viewer is a simple web application that allows users to search
    git clone https://github.com/Asim-Sidd02/GitHub-Repository-Finder-By-Username.git
    cd GitHub-Repository-Finder-By-Username
    Open index.html in a Web Browser:
-Open the index.html file in your preferred web browser.
 
+   
+Open the index.html file in your preferred web browser.
 Search for a GitHub Username:
 Enter a GitHub username in the search bar and press Enter to retrieve and display the user's repositories.
 
